@@ -1,0 +1,14 @@
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.AssemblyInfoInputs.cache
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.AssemblyInfo.cs
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.csproj.CoreCompileInputs.cache
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.exe
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.deps.json
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.runtimeconfig.json
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.dll
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.dll
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\refint\SuperHeroesApp.dll
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.genruntimeconfig.cache
+C:\Users\Mario\C#\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\ref\SuperHeroesApp.dll
